@@ -8,6 +8,9 @@ substitution command that replaces all the '0' digits (zeros) with spaces.
 If I now sum up all the numbers in the buffer, as delineated by spaces, what
 is the total?
 
+*adapted from [Word Doc of Coffee Time
+Challenges](http://www.datagenetics.com/blog/june22014/index.html)*
+
 ### Week 1: Round Robin
 
 Given 3 teams (A, B, C), we want to organize a tournament schedule such that
