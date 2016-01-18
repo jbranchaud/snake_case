@@ -1,5 +1,13 @@
 # snake_case
 
+### Week 3: City Walking
+
+Starting in the Northwest corner of a 2 block by 2 block city center, you
+want to move to the Southeast corner. By moving only East and South a block
+at a time, there are 6 paths through the city center.  How many paths are
+there if the city center is 20 blocks by 20 blocks? How many paths are there
+if you can only move at most two blocks in a given direction at a time?
+
 ### Week 2: Vim Buffer
 
 I open up a new Vim buffer and type all the numbers 1 to 10,000, separated
