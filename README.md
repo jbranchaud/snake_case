@@ -1,5 +1,11 @@
 # snake_case
 
+### Week 4: From One End to the Other
+
+Find the smallest possible (positive) integer that ends in a six such that
+if that six is removed and placed in front of the remaining digits of the
+number, the resulting number will be four times as large as the original.
+
 ### Week 3: City Walking
 
 Starting in the Northwest corner of a 2 block by 2 block city center, you
