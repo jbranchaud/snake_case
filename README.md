@@ -1,5 +1,12 @@
 # snake_case
 
+### Week 5: Valid Sudoku
+
+A Sudoku puzzle is a 9x9 grid of numbers from 1 to 9 such
+that each row, column, and 3x3 box contain exactly those numbers, no
+duplicates. Write an algorithm that can check if a solution to a sudoku
+puzzle is a valid one.
+
 ### Week 4: From One End to the Other
 
 Find the smallest possible (positive) integer that ends in a six such that
