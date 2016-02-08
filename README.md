@@ -1,5 +1,14 @@
 # snake_case
 
+### Week 6: LED Clock
+
+LED Clock: You are (voluntarily) in a room that is completely dark except
+for the light coming from an old LED digital alarm clock. This is one of
+those clocks with 4 seven segment displays using an HH:MM time format. The
+clock is configured to display time in a 24 hour format and the leading
+digit will be blank if not used. What is the period of time between when the
+room is at its darkest to when it is at its lightest?
+
 ### Week 5: Valid Sudoku
 
 A Sudoku puzzle is a 9x9 grid of numbers from 1 to 9 such
