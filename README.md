@@ -1,5 +1,11 @@
 # snake_case
 
+### Week 7: Thirty Four
+
+A 4 by 4 grid can be filled with the numbers from 1 to 16 such that each
+row, column, and both of the diagonals all add up to thirty four. What is
+the total number of ways that a 4 by 4 grid can be filled in this way?
+
 ### Week 6: LED Clock
 
 You are (voluntarily) in a room that is completely dark except
