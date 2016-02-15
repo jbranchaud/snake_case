@@ -22,7 +22,7 @@ Find the smallest possible (positive) integer that ends in a six such that
 if that six is removed and placed in front of the remaining digits of the
 number, the resulting number will be four times as large as the original.
 
-*adapted from Start and end of Coffee Time
+*adapted from [Start and end of Coffee Time
 Challenges](http://www.datagenetics.com/blog/june22014/index.html)*
 
 ### Week 3: City Walking
