@@ -2,7 +2,7 @@
 
 ### Week 6: LED Clock
 
-LED Clock: You are (voluntarily) in a room that is completely dark except
+You are (voluntarily) in a room that is completely dark except
 for the light coming from an old LED digital alarm clock. This is one of
 those clocks with 4 seven segment displays using an HH:MM time format. The
 clock is configured to display time in a 24 hour format and the leading
