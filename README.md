@@ -29,7 +29,7 @@ Challenges](http://www.datagenetics.com/blog/june22014/index.html)*
 
 Starting in the Northwest corner of a 2 block by 2 block city center, you
 want to move to the Southeast corner. By moving only East and South a block
-at a time, there are 6 paths through the city center.  How many paths are
+at a time, there are 6 paths through the city center. How many paths are
 there if the city center is 20 blocks by 20 blocks? How many paths are there
 if you can only move at most two blocks in a given direction at a time?
 
