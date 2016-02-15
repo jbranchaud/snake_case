@@ -9,6 +9,9 @@ clock is configured to display time in a 24 hour format and the leading
 digit will be blank if not used. What is the period of time between when the
 room is at its darkest to when it is at its lightest?
 
+*adapted from [LED Clock of Coffee Time
+Challenges](http://www.datagenetics.com/blog/june22014/index.html)*
+
 ### Week 5: Valid Sudoku
 
 A Sudoku puzzle is a 9x9 grid of numbers from 1 to 9 such
