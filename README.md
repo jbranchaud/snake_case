@@ -1,5 +1,11 @@
 # snake_case
 
+### Week 8: Solving Sudoku
+
+A Sudoku puzzle is a 9 by 9 grid of numbers from 1 to 9 such that each row,
+column, and 3x3 box contain exactly those numbers. Write an algorithm that
+given a sudoku puzzle can compute the solution.
+
 ### Week 7: Thirty Four
 
 A 4 by 4 grid can be filled with the numbers from 1 to 16 such that each
