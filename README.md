@@ -1,5 +1,12 @@
 # snake_case
 
+### Week 10: Random Line
+
+How could you select one of N objects at random, where you see the objects
+sequentially but you don't know the value of N beforehand? For concreteness,
+how would you read a text file, and select and print one random line, when
+you don't know the number of lines in advance.
+
 ### Week 8 - Week 9: Solving Sudoku
 
 A Sudoku puzzle is a 9 by 9 grid of numbers from 1 to 9 such that each row,
