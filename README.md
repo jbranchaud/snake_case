@@ -1,5 +1,12 @@
 # snake_case
 
+### Week 13: Snapper Chain
+
+The Snapper is a clever little device that, on one side, plugs its input
+plug into an output socket, and, on the other side, exposes an output socket
+for plugging in a light or other device... _keep reading at:_
+https://code.google.com/codejam/contest/433101/dashboard
+
 ### Week 12: 8 Queens
 
 On a chess board, a queen can capture other pieces by moving any number of
